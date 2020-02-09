@@ -159,7 +159,3 @@ Eagle Scout
 Scouts of America  
 1981  
 
-ONLINE
-
-[Blog](http://wisesmile.github.com)  
-[Github](http://www.github.com/wisesmile)  
