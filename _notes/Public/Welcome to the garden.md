@@ -8,3 +8,6 @@ Welcome to digital garden using Obsidian and Jekyll garden theme. This file is l
 
 Check [[Hidden Note]] to know how to create notes which won't appear on the feed!
 
+## Hello, World
+
+This is another test of the hello world.
