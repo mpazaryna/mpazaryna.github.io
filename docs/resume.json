@@ -1,0 +1,243 @@
+{
+  "basics": {
+    "name": "Matthew Pazaryna",
+    "label": "Specialties: React.js, Node.js, Amazon Web Services, AWS Lambda Functions, Ruby, Ruby on Rails",
+    "picture": "",
+    "email": "mpazaryna@gmail.com",
+    "phone": "",
+    "website": "https://mpazaryna.github.io/",
+    "summary": "I am a strong leader, mentor, and conscientious developer.  I am a self-directed learner and maintain regular studying and exploring new technologies. I am a certified yoga instructor, and I am currently enrolled in a 300-hour advanced yoga teacher training.",
+    "location": {
+      "address": "",
+      "postalCode": "[mpazaryna]",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "AskChristee",
+      "position": "Lead Engineer and Architect",
+      "website": "",
+      "startDate": "2020-04-01",
+      "summary": "AskChristee is a startup building comprehensive financial tools for the real estate industry.  The application supports customers in analyzing financial matters related to a home purchase, rental, and investment strategies.  I am responsible for both front end user experience and architecture of the backend services.",
+      "highlights": []
+    },
+    {
+      "company": "SunGard Availability Services",
+      "position": "Lead Engineer",
+      "website": "",
+      "startDate": "2011-12-01",
+      "summary": "Technical lead responsible for the development, enhancement and support of Sungard’s customer portal, Viewpoint.  I lead the effort to migrate the original codebase from Ruby on Rails to React.js and Node.js  This work has been instrumental in driving company-wide adoption of React.js.    I serve as the primary development manager for a team of engineers in Sungard's India and Costa Rica office.  I am responsible for managing workload and providing QA and triage for working delivered and developed.    I also serve as a product manager for the Viewpoint application.  I'm tasked with meeting with both internal and external customers.  I participate in design explorations, enhancement requests and reviews to maintain a consistent and growing application.",
+      "highlights": ["Awarded 'Excellent Service Accomodations' several times."]
+    },
+    {
+      "company": "AT&T",
+      "position": "Staff Engineer",
+      "website": "",
+      "startDate": "2007-03-01",
+      "summary": "Lead developer providing enhancement and ongoing maintenance of the managed services customer portal.  The portal is a primary interface between AT&T and it's customers to review of critical system information.  It provides details on all aspects of performance, events and service level agreements.   Developer on the 'Service Now' project, responsible for the SOAP interface between Service Now and AT&T ticketing systems.",
+      "highlights": [],
+      "endDate": "2011-12-01"
+    },
+    {
+      "company": "USI",
+      "position": "Staff Engineer",
+      "website": "",
+      "startDate": "2006-10-01",
+      "summary": "I led a team responsible for refactoring a customer portal application into the Ruby on Rails.  The application was the primary interface between USi and its customers for the review of critical system information and the entry of trouble tickets.",
+      "highlights": [],
+      "endDate": "2007-03-01"
+    },
+    {
+      "company": "The National Academies of Science",
+      "position": "Manger of Information Services",
+      "website": "",
+      "startDate": "1999-03-01",
+      "summary": "Senior developer responsible for enterprise-wide database architecture and overall application development using J2EE and PHP. Managed junior developers and provided technical support and training when required.",
+      "highlights": [],
+      "endDate": "2006-05-01"
+    },
+    {
+      "company": "Regency Homes",
+      "position": "Manager of Information Service",
+      "website": "",
+      "startDate": "1993-01-01",
+      "summary": "Responsible for all aspects of information technology. Responsible for comprehensive database development for all aspects of the business. Reviewed and facilitated requests for information technology purchases. Primarily developed Windows based applications using Visual Basic and Borland Delphi.",
+      "highlights": [],
+      "endDate": "1999-01-01"
+    },
+    {
+      "company": "The Washington Center",
+      "position": "Application Developer",
+      "website": "",
+      "startDate": "1987-01-01",
+      "summary": "Developing custom database applications to support all aspects of the organization.  These assisted the staff in managing student matriculation, marketing, fundraising and outreach.  This was my first full-time position as an application developer.",
+      "highlights": [],
+      "endDate": "1993-01-01"
+    },
+    {
+      "company": "CloseUp Foundation",
+      "position": "Marketing Assistant",
+      "website": "",
+      "startDate": "1986-01-01",
+      "summary": "Responsible for the management of the book fulfillment system.  In addition, I provided support to the Marketing Director by creating spreadsheets, graphics, supplemental databases and other independently driven data processing projects.",
+      "highlights": [],
+      "endDate": "1987-01-01"
+    },
+    {
+      "company": "Life Experiences Activities Program",
+      "position": "Vocational Rehabilitation Counselor",
+      "website": "",
+      "startDate": "1985-01-01",
+      "summary": "Vocational Rehabilitation Counselor working with adults with specific learning disabilities, chronic mental illness and traumatic head injury.  Responsibilities include developing treatment plans, providing independent living counseling and job support.    This is where I began the exploration of application development while working with a client with a traumatic head injury and an Apple IIc.",
+      "highlights": [],
+      "endDate": "1986-01-01"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Soul Food Kitchen",
+      "position": "Volunteer",
+      "website": "https://jbjsoulkitchen.org/",
+      "startDate": "2016-09-01",
+      "endDate": "2017-01-01",
+      "summary": "Worked in the kitchen and served meals to the community."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Janet Stone Yoga School",
+      "area": "300 Hour Advanced Teacher Training",
+      "studyType": "",
+      "startDate": "2021-02-01",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "University of Maryland",
+      "area": "Rehabilitation Counseling",
+      "studyType": "",
+      "startDate": "1984-12-31",
+      "gpa": "",
+      "courses": [],
+      "endDate": "1986-12-31"
+    },
+    {
+      "institution": "Seton Hall University",
+      "area": "",
+      "studyType": "Bachelor's degree",
+      "startDate": "1983-12-31",
+      "gpa": "",
+      "courses": [],
+      "endDate": "1984-12-31"
+    }
+  ],
+  "skills": [
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Node.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Applications",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unix",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Enterprise Software",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Disaster Recovery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Product Management",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "Christina Schriver - AT&T",
+      "reference": "Matt consistently displays a willingness to lead the team and extend his experience in new areas. He has assumed roles above and beyond his direct position as a programmer including developing and managing relationships with the user community, and creating project schedules and deliverables.  Matt applies an abstract, creative thinking style to achieve measurable results.  Matt’s enthusiasm and positive attitude considerably improve the team dynamics.  I appreciate the measurable results of his direct contributions to the project."
+    },
+    {
+      "name": "Lynn Cheryan - National Cancer Institute (NCI)",
+      "reference": "Matthew and I worked on the redesign of a large, database-driven website. Yes, he can code--but there are a lot of people who can do that. What Matthew does better than most developers is contribute innovative ideas and approaches to solving business problems. Working with Matthew was like being part of a band--he could execute his role flawlessly, and he could enhance the work of other people on the team."
+    },
+    {
+      "name": "Greg Surbey - Stealth Startup",
+      "reference": "Matt is an expert at assembling verticle web software solutions.  At USi Matt and I worked together utilizing the new Ruby on Rails Web 2.0 paradigm.  Matt is a good working, reliable, and friendly individual.  I have seen how much he loves software development and how much he cares about his business clients.  I would recommend Matt not only to get the job done, but to get the job done correctly."
+    }
+  ],
+  "projects": [
+    {
+      "name": "Viewpoint",
+      "startDate": "2011-12-01",
+      "summary": "Viewpoint serves as the gateway to the client's device and asset infrastructure and provides real-time performance metrics and visualization tools, as well as links to other Sungard offerings.  Viewpoint is a hybrid application developed in Ruby on Rails, Backbone Marionette, and React.js.",
+      "url": "https://viewpoint.sungardas.com"
+    },
+    {
+      "name": "ot-react-components",
+      "startDate": "2011-12-01",
+      "summary": "This library is a comprehensive repository of React.js components that can be shared across multiple application containers within the organization.  The creation of components is certainly a team effort and requires the expertise of subject matter experts and user experience engineers.  ot-react-components is the final realization of that work, delivered as an npm module.",
+      "url": ""
+    }
+  ]
+}
