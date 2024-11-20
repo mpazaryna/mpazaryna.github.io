@@ -3,99 +3,43 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple GitHub Profile</title>
+    <title>Matthew Pazaryna</title>
     <style>
-        :root {
-            --bg: #ffffff;
-            --text: #333333;
-            --accent: #0366d6;
-        }
-
-        [data-theme="dark"] {
-            --bg: #0d1117;
-            --text: #c9d1d9;
-            --accent: #58a6ff;
-        }
-
         body {
-            font-family: system-ui, -apple-system, sans-serif;
             margin: 0;
-            padding: 20px;
-            background: var(--bg);
-            color: var(--text);
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            transition: background-color 0.3s, color 0.3s;
-        }
-
-        .theme-toggle {
-            position: fixed;
-            top: 20px;
-            right: 20px;
-            padding: 8px 16px;
-            background: var(--accent);
-            color: var(--bg);
-            border: none;
-            border-radius: 4px;
-            cursor: pointer;
-        }
-
-        h1, h2 {
-            color: var(--accent);
-        }
-
-        .profile {
-            margin: 40px 0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            font-family: system-ui, -apple-system, sans-serif;
+            background: #0d1117;
+            color: #ffffff;
             text-align: center;
         }
 
-        .projects {
-            display: grid;
-            gap: 20px;
+        h1 {
+            font-size: 4rem;
+            margin-bottom: 2rem;
         }
 
-        .project {
-            padding: 20px;
-            border: 1px solid var(--accent);
-            border-radius: 4px;
-        }
-
-        a {
-            color: var(--accent);
+        .cta {
+            padding: 1rem 2rem;
+            font-size: 1.5rem;
+            background: #58a6ff;
+            color: white;
             text-decoration: none;
+            border-radius: 8px;
+            transition: transform 0.2s;
+        }
+
+        .cta:hover {
+            transform: scale(1.05);
         }
     </style>
 </head>
 <body>
-    <button class="theme-toggle" onclick="toggleTheme()">Toggle Theme</button>
-    
-    <div class="profile">
-        <h1>Matthew Pazaryna</h1>
-        <p>Software Developer</p>
-    </div>
-
-    <div class="projects">
-        <div class="project">
-            <h2>Woodshed AI</h2>
-            <p>A brief description of your <a href="https://github.com/mpazaryna/woodshed-ai">repository.</a></p>
-        </div>
-        <div class="project">
-            <h2>Project Two</h2>
-            <p>A brief description of your second project.</p>
-        </div>
-    </div>
-
-    <script>
-        function toggleTheme() {
-            document.body.dataset.theme = 
-                document.body.dataset.theme === 'dark' ? 'light' : 'dark';
-        }
-
-        // Set initial theme based on system preference
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-            document.body.dataset.theme = 'dark';
-        }
-    </script>
+    <h1>Matthew Pazaryna</h1>
+    <a href="https://paz.land/" class="cta">Portfolio</a>
 </body>
 </html>
